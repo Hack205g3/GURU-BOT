@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   [255745903193', 'Addie bot', true],
-  [255745903193', 'Ash', true], 
+  [255675133107', 'Ash', true], 
   [''] 
 ] //1
 
